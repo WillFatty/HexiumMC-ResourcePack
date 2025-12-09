@@ -1,22 +1,6 @@
 {
-  "pack": {
-    "description": "Makes textures from many blocks connect",
-    "pack_format": 15,
-    "supported_formats": [15, 1000],
-    "min_format": 15,
-    "max_format": 1000
-  },
-  "fusion": {
-    "min_version": "1.2.11"
-  },
-  "overlays": {
-    "entries": [
-      {
-        "formats": [20, 1000],
-        "min_format": 20,
-        "max_format": 1000,
-        "directory": "pack_format_20"
-      }
-    ]
-  }
+   "pack":{
+      "pack_format":18,
+      "description":"\u00A79By hound\u00A7r\n\u00A74\u00A7lFor the subtle connection that makes a difference!!"
+   }
 }
